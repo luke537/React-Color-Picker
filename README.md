@@ -1,6 +1,6 @@
 # Colour Picker Interview Challenge by Luke Ryan
 
-Hi guys, please find the code for the colour picker challenge.
+This repository contains code for a coding challenge I had to do for a frontend developer position
 
 While the basic features such as colour generation and displaying the value of the clicked colour, there are some imperfections that I could not address due to time constraints.
 
